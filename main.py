@@ -1,3 +1,5 @@
+#this is the tic tac game in python
+
 import os
 
 is_game_on = True
